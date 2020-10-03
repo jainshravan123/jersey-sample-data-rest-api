@@ -4,7 +4,7 @@
 
 ## About
 
-This repository exposes the rest apis for generating the sample data.
+This repository exposes the rest apis for generating the sample data. This project is build using the jersey library.
 
 ## Description
 This is a maven app which is hosted on heroku cloud. This app is using the jersey library for creating the rest apis.
