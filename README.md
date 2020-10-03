@@ -1,6 +1,6 @@
 # Jersey Sample Data Rest Api
 
-[![Build Status](https://travis-ci.com/jainshravan123/SampleRestApis.svg?branch=master)](https://travis-ci.com/jainshravan123/SampleRestApis)
+[![Build Status](https://travis-ci.com/jainshravan123/jersey-sample-data-rest-api.svg?branch=master)](https://travis-ci.com/github/jainshravan123/jersey-sample-data-rest-api)
 
 ## About
 
